@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naphee25
 - 👀 I’m interested in data analytics, data science, cloud computing and machine learning
 - 🌱 I’m currently learning Python, R, AWS, Databases
-- 💞️ I’m looking to intern as a Data Analyst or Data Scientist
+- 💞️ I’m looking to intern as a Data Analyst, Data Engineer, Data Scientist or a Cloud Engineer
 - 📫 How to reach me abdulkadirnafisahabidemi@gmail.com
 
 <!---
